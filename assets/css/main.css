@@ -740,6 +740,12 @@ section,
   position: relative;
 }
 
+@media (max-width: 768px) {
+  .section-title h2 {
+    font-size: 20px;
+  }
+}
+
 .section-title h2:before,
 .section-title h2:after {
   content: "";
@@ -1278,6 +1284,12 @@ section,
   position: relative;
   margin-bottom: 20px;
   padding-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .features .tab-pane h3 {
+    font-size: 26px;
+  }
 }
 
 .features .tab-pane h3:after {
