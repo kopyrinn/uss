@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uss1.kz/sitemap.xml
